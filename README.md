@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gajera</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">Building Scalable, Secure, and Efficient Server-Side Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgajera9022&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgajera9022" /> </p>
 
