@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgajera9022&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgajera9022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvgajera9022" alt="dhruvgajera9022" /></a> </p>
-
-- 🔭 I’m currently Studying Bachelor of Computer Application [NestJs-Project](https://github.com/DhruvGajera9022/NestJs-Project)
+- 🔭 My current project [NestJs-Project](https://github.com/DhruvGajera9022/NestJs-Project)
 
 - 🌱 I’m currently learning **Node.js, Express.js, NestJS**
 
