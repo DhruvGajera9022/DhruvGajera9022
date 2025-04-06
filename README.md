@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgajera9022&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgajera9022" /> </p>
 
-- 🔭 My current project [NestJs-Project](https://github.com/DhruvGajera9022/NestJs-Project)
+- 🔭 My current project [Social Media App](https://github.com/DhruvGajera9022/Social-Media-App)
 
 - 🌱 I’m currently learning **Node.js, Express.js, NestJS**
 
