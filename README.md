@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 Building scalable backend services with Node.js, NestJS, and PostgreSQL, and working on a social media app project.<br>
-🌱 Deep diving into distributed systems, event-driven architecture, and advanced PostgreSQL features.<br>💬 Node.js, NestJS, WebSockets, Redis, scalable database design, and real-time communication.
+🌱 Deep diving into distributed systems, event-driven architecture, and advanced PostgreSQL features.<be>
+💬 Node.js, NestJS, WebSockets, Redis, scalable database design, and real-time communication.
 
 
 ## 🌐 Socials:
