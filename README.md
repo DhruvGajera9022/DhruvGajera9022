@@ -1,6 +1,8 @@
 # 💫About Me :
-🔭 Building scalable backend services with Node.js, NestJS, and PostgreSQL.\n
+🔭 Building scalable backend services with Node.js, NestJS, and PostgreSQL.
+
 🌱 Exploring distributed systems, event-driven architecture, and advanced PostgreSQL optimizations.
+
 💬 Working with Node.js, NestJS, Python, Redis, WebSockets, and real-time communication.
 
 ## 🌐Socials
